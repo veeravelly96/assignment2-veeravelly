@@ -35,5 +35,6 @@ The following given table shows the list of my favourite foods/drinks and where 
 ---
 # Quotes
 > Powerfull people comes from the powerfull place. - *KGF*
+
 > The unexamined life is not worth living. - *Socrates*
 
