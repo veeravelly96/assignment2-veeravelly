@@ -15,3 +15,8 @@
      4. Board the fligt            
  4. After landing find a taxi and go out to explore the places in chicago.
 
+ * phone
+ * sunglasses
+ * hat 
+ 
+
