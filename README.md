@@ -32,4 +32,8 @@ The following given table shows the list of my favourite foods/drinks and where 
 | Ram ki dosa                  |Hyderabad   |7          |
 | Gokul chat                   |Hyderabad   |5          |
 | fried egg maggie             |Hyderabad   |4          |
+---
+# Quotes
+> Powerfull people comes from the powerfull place. - *KGF*
+> The unexamined life is not worth living. - *Socrates*
 
